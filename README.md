@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">> Creating bugs since 2016<br>> I'm currently Busy ...<br>> Goals: $$$$$$$$$$$$$<br>> <br>><br>><br>></p>
+<p align="center">Creating bugs since 2016<br>I'm currently Busy<br>Goals: $$$$$$$$$$$$$<br>v<br>v<br>v<br>v</p>
 
 ###
 
@@ -130,8 +130,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=51&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
